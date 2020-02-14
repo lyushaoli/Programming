@@ -1,5 +1,7 @@
 # Python 3 Installation on macOS
 
+## Getting Started
+
 To get started working with Python 3, you’ll need to have access to the Python interpreter by the following steps.
 
 Install brew at frist:
@@ -22,7 +24,7 @@ $ python3 main.py
 ```
 
 
-### Problems
+## Problems
 | NO. | Problems | Solutions |
 | ------ | ------ | ------ | 
 | 1 | [Three Fruit](https://github.com/lyushaoli/Problems/tree/master/ThreeFruit/README.md) | [Python3](https://github.com/lyushaoli/Problems/tree/master/ThreeFruit/main.py)| 
