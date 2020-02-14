@@ -1,4 +1,4 @@
-# Python 3 Installation on MAC OS
+# Python 3 Installation on macOS
 
 To get started working with Python 3, you’ll need to have access to the Python interpreter by the following steps.
 
