@@ -1,4 +1,4 @@
-Let <img src="https://render.githubusercontent.com/render/math?math=x,y,z \in \mathbb{N}^+">. The problem definition is defined as
+Let <img src="https://render.githubusercontent.com/render/math?math=x,y,z %20\in \mathbb{N}^+">. The problem definition is defined as
 
 <img src="https://render.githubusercontent.com/render/math?math=\dfrac{x}{y%2Bz}%2B\dfrac{y}{x%2Bz}%2B\dfrac{z}{x%2By} = 4">
 
