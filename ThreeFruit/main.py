@@ -1,7 +1,7 @@
-import itertools
 x = 1
 y = 1
 z = 1
+MAX = 1000000000000000000000000000000000000000000000000000000000000000000000000000000000
 done = False
 
 
@@ -14,19 +14,19 @@ def isDone(x, y, z):
 
 
 print("Calculating...")
-for i in itertools.count(1):
+for i in range(1, MAX):
     x = i
     if done:
         break
     else:
         done = isDone(x, y, z)
-    for j in itertools.count(1):
+    for j in range(1, MAX):
         y = j
         if done:
             break
         else:
             done = isDone(x, y, z)
-        for k in itertools.count(1):
+        for k in range(1, MAX):
             z = k
             if done:
                 break
