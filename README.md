@@ -27,4 +27,4 @@ $ python3 main.py
 ## Problems
 | NO. | Problems | Solutions |
 | ------ | ------ | ------ | 
-| 1 | [Three Fruit](https://github.com/lyushaoli/Problems/tree/master/ThreeFruit/README.md) | [Python3](https://github.com/lyushaoli/Problems/tree/master/ThreeFruit/main.py)| 
+| 1 | [Three Fruit](https://github.com/lyushaoli/Programming/tree/master/ThreeFruit/README.md) | [Python3](https://github.com/lyushaoli/Programming/tree/master/ThreeFruit/main.py)| 
