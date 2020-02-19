@@ -8,11 +8,10 @@ jobs:
     runs-on: macos-latest
 
     steps:
+    - name: Checkout
     - uses: actions/checkout@v2
-    - name: Set up Python 3.8
-      uses: actions/setup-python@v1
       with:
-        python-version: 3.8
+        ref: master
     - name: Install Python3
       run: |
         /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
