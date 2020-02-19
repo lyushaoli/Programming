@@ -1,6 +1,4 @@
-![](https://github.com/actions/Programming/workflows/Python%20application/badge.svg?branch=master)
 # Getting Started
-
 ## Python 3 Installation on macOS
 
 To get started working with Python 3, you’ll need to have access to the Python interpreter by the following steps.
