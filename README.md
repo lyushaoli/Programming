@@ -1,4 +1,4 @@
-![](https://github.com/actions/Programming/workflows/Python application/badge.svg?branch=master)
+![](https://github.com/actions/Programming/workflows/Python%20application/badge.svg?branch=master)
 # Getting Started
 
 ## Python 3 Installation on macOS
